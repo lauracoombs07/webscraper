@@ -1,0 +1,19 @@
+{
+  "name": "webscrape",
+  "version": "1.0.0",
+  "description": "WebScraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauracoombs07/webscraper.git"
+  },
+  "author": "Laura Coombs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauracoombs07/webscraper/issues"
+  },
+  "homepage": "https://github.com/lauracoombs07/webscraper#readme"
+}
